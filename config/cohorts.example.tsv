@@ -1,0 +1,8 @@
+cohort	ancestry	include_european	path
+MVP_EUR	EUR	TRUE	data/example/mvp_eur.tsv
+UKB_EUR	EUR	TRUE	data/example/ukb_eur.tsv
+FINNGEN_EUR	EUR	TRUE	data/example/finngen_eur.tsv
+FRENCH_EUR	EUR	TRUE	data/example/french_eur.tsv
+MVP_AFR	AFR	FALSE	data/example/mvp_afr.tsv
+MVP_HIS	HIS	FALSE	data/example/mvp_his.tsv
+
